@@ -12,4 +12,4 @@ Window End:
 Launch Pad:
 Space Launch Complex 40, Cape Canaveral, FL
 
-Last Updated: 2/6/2019 (MM/DD/YYYY)  22:58 UTC
+Last Updated: 2/6/2019 (MM/DD/YYYY)  18:2 (UTC-5)

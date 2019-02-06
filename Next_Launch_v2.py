@@ -81,7 +81,7 @@ Last Updated: %s/%s/%s (MM/DD/YYYY)  %s:%s (UTC-5)
 #f.close()
 
 #Find Repository
-repo = g.get_user().get_repo('Next-spacex-Launch')
+repo = g.get_user().get_repo('Repo Name Here')
 #Not quite sure what this does; saw it in a tutorial so i included it
 file = repo.get_file_contents("/next_mission.txt")
 

@@ -1,15 +1,15 @@
 Falcon 9 Block 5 | Nusantara Satu (PSN VI), Spaceflight GTO-1 & Beresheet
 
 No Earlier Than:
-February 19, 2019 02:00:00 UTC
+February 22, 2019 01:45:00 UTC
 
 Window Start:
-2019-02-19 02:00:00 UTC
+2019-02-22 01:45:00 UTC
 
 Window End:
-2019-02-19 02:00:00 UTC
+2019-02-22 01:45:00 UTC
 
 Launch Pad:
 Space Launch Complex 40, Cape Canaveral, FL
 
-Last Updated: 2/7/2019 (MM/DD/YYYY)  17:0 UTC 
+Last Updated: 2/8/2019 (MM/DD/YYYY)  17:0 UTC 

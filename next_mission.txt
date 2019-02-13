@@ -1,4 +1,4 @@
-Falcon 9 Block 5 | Nusantara Satu (PSN VI), Spaceflight GTO-1 & Beresheet
+Falcon 9 Block 5 | Nusantara Satu & GTO-1 (Beresheet, S5)
 
 No Earlier Than:
 February 22, 2019 01:45:00 UTC
@@ -12,4 +12,4 @@ Window End:
 Launch Pad:
 Space Launch Complex 40, Cape Canaveral, FL
 
-Last Updated: 2/12/2019 (MM/DD/YYYY)  17:00 UTC 
+Last Updated: 2/13/2019 (MM/DD/YYYY)  17:00 UTC 
